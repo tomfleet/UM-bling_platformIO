@@ -1,0 +1,3 @@
+[submodule "tools/image_to_c"]
+	path = tools/image_to_c
+	url = https://github.com/bitbank2/image_to_c.git
